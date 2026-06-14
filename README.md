@@ -28,8 +28,13 @@ CampusIQ is an AI-powered university assistant system designed to automate and s
 
 ## 📸 Screenshots
 
-*Coming soon...*
-
+![Advisor Chat](Screenshot%20(320).png)
+![GPA Calculator](Screenshot%20(321).png)
+![CGPA Calculator](Screenshot%20(322).png)
+![GPA Predictor](Screenshot%20(323).png)
+![Doc Search](Screenshot%20(324).png)
+![Grading Scale](Screenshot%20(325).png)
+![Screenshot](Screenshot%20(326).png)
 ---
 
 ## 📫 Contact
